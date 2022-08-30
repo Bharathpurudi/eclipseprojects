@@ -1,0 +1,5 @@
+package com.souramandala.dataaccessingobject;
+
+public class CustomerDaoImpl {
+
+}

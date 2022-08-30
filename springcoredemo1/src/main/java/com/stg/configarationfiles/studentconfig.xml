@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans.xsd 
+    http://www.springframework.org/schema/context 
+    http://www.springframework.org/schema/context/spring-context.xsd"
+    default-lazy-init="true">
+
+	<bean id="student" class="com.stg.model.Student" >
+	</bean>
+	<bean id="student1" class="com.stg.model.Student"  >
+<!-- 	<constructor-arg value="241" index="0" ></constructor-arg>
+	<constructor-arg value="Jyothirmai" index="1" ></constructor-arg>
+	<constructor-arg value="454.55" index="2"  ></constructor-arg> -->
+	<constructor-arg value="241" name="studentId" ></constructor-arg>
+	<constructor-arg value="Jyothirmai" name="studentName" ></constructor-arg>
+	<constructor-arg value="454.55" name="studentMarks"  ></constructor-arg>
+	</bean>
+	
+
+</beans>

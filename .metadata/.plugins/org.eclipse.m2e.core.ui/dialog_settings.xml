@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\sbdemo3\sbdemo3\src\main\java\com\stg\service\CustomerService.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\sbdemo2\sbdemo2"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\springmvcdemo\pom.xml"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\java8features\src\main\java\com\main\InterfaceInstantiated.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\java8\src\main\java\com\defaultdemo\DefaultDemoInterface.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\collectionAssignments\src\main\java\com\stg\collectionAssignment5Library\service\LibraryServiceImpl.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\day9demo\src\main\java\com\stg\main\Exception.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\abstarctAssignments\src\main\java\com\assignments\assignment6\main\AreaMain.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\souramandalaSolar"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\Assignment1\src\main\java\com\assignments\main\Assignment1Main.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\firstMavenProject\src\main\java\com\main\EmployeeMain.java"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\firstMavenProject"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\demo5\src\com\stg\main\StringDemo.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="souramandala1"/>
+			<item value="com"/>
+			<item value="com.stg"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="souramandala1"/>
+			<item value="hrspringrestapplication"/>
+			<item value="springrestdemo1"/>
+			<item value="springmvcdemo"/>
+			<item value="firstwebapplication"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Training\HackerRank\HackerRankSolutions\jumptotheflag"/>
+			<item value="D:\Training\HackerRank\HackerRankSolutions\distbetween2"/>
+			<item value="D:\Training\HackerRank\HackerRankSolutions\AccountsComparison"/>
+			<item value="C:\Users\bharathp\Desktop\distbetween2"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\souramandala1"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\sbdemo3"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\sbdemo2"/>
+			<item value="C:\Users\bharathp\Downloads\springbootdemo1"/>
+			<item value="D:\Training\JavaDemos\bharath_eclipse_workspace\springmvcdemo\src\main\webapp\WEB-INF\spring5-servlet.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

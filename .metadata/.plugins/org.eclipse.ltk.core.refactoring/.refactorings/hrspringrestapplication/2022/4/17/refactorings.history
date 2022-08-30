@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hrspringrestapplication/src/main/webapp/WEB-INF/dispatcher-servlet.xml&apos; to &apos;springrestconfig-servlet.xml&apos;" description="Rename resource &apos;dispatcher-servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/dispatcher-servlet.xml" name="springrestconfig-servlet.xml" stamp="1650518861468" updateReferences="true"/>
+</session>
